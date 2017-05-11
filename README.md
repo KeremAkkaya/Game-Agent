@@ -3,7 +3,7 @@
 
 #PLASE NOTE:
 
-My implementations of iterative deepening, alpha-beta, and minimax searches are contained in game-agent.py. Heuristics I have developed for this game are contained in heuristics analysis.pdf. In addition, I have an analysis of monte-carlo tree search used by Alpha-Go in the research review.pdf file. The original project files are contained in the 'Original Project Files' folder. The rest of this file is original readme file for the assignment.
+My implementations of iterative deepening, alpha-beta, and minimax searches are contained in game-agent.py. Heuristics I have developed for this game are contained in heuristics analysis.pdf. In addition, I have an analysis of monte-carlo tree search used by Alpha-Go in the research review.pdf file. The original project files are contained in the 'Original Project Files' folder. The rest of this file is the original readme file for the assignment.
 
 
 ## Synopsis
